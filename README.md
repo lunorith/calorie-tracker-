@@ -2,8 +2,8 @@
 
 A terminal-based calorie tracker written in C using the **ncurses** library.
 # Demo
-
-![Demo](demo/demo.gif)
+If u want, you can download the video and watch
+![Watch Demo Video](demo/demo.mp4)
 
 This project helps users:
 
