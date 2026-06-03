@@ -1,6 +1,9 @@
 # Calorie Tracker CLI (C + ncurses)
 
 A terminal-based calorie tracker written in C using the **ncurses** library.
+# Demo
+
+![Demo](demo/demo.gif)
 
 This project helps users:
 
